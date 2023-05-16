@@ -1,0 +1,76 @@
+{
+  "name": "Msamuelsons",
+  "photo": "https://avatars.githubusercontent.com/u/35317517?s=400&u=594afa11979e507bbf6e49f2a2cf0d726b1ca929&v=4",
+  "job": "Junior Developer",
+  "location": "Parnaiba - PI",
+  "phone": "(86) 99516-4541",
+  "email": "msamuel56y@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/Msamuelsons/introducao-javascript/master/portfolio/assets/img/icons/react.png"
+      },
+      {
+        "name": "Vue",
+        "logo": "https://raw.githubusercontent.com/Msamuelsons/introducao-javascript/master/portfolio/assets/img/icons/vue.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/Msamuelsons/introducao-javascript/master/portfolio/assets/img/icons/git.png"
+      },
+
+      {
+        "name":"Github",
+        "logo": "https://raw.githubusercontent.com/Msamuelsons/introducao-javascript/master/portfolio/assets/img/icons/github.png"
+      },
+      {
+        "name":"Python",
+        "logo":"https://raw.githubusercontent.com/Msamuelsons/introducao-javascript/master/portfolio/assets/img/icons/python.png"
+      },
+      {
+        "name":"Typescript",
+        "logo":"https://raw.githubusercontent.com/Msamuelsons/introducao-javascript/master/portfolio/assets/img/icons/typescript.png"
+      }
+      
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Básico)",
+    "Espanhol (Básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/Msamuelsons/poke-dio",
+      "github": true
+    },
+    {
+      "name": "Trabalhando com animação",
+      "url": "https://github.com/Msamuelsons/pumpkin",
+      "github": true
+    },
+    {
+      "name": "Projeto realizado FronEndMentor",
+      "url": "https://github.com/Msamuelsons/qrcode-frontendmentor",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": " Em busca da minha primeira oportunidade de emprego na área da programação."
+    }
+  ]
+}
