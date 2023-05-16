@@ -25,6 +25,6 @@
     height: .5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('https://raw.githubusercontent.com/Msamuelsons/port-dio/main/assets/img/icons/check.svg');
+    background-image: url('../img/icons/check.svg');
     margin-right: .5rem;
 }
