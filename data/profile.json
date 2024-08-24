@@ -70,7 +70,14 @@
   ],
   "professionalExperience": [
     {
-      "name": " Em busca da minha primeira oportunidade de emprego na área da programação."
+      "name": " Atuei como desenvolvedor Backend PHP na empresa Exata Engenharia."
+    }
+  ],
+  "educacao": [
+    {
+      "name_1": " Análise e desenvolvimento de Sistemas - Impacta Faculdade.",
+      "name_2": " Ciência de dadaos- Uninter",
+      "name_3": " Desenvolvimento de Software - IFPI"
     }
   ]
 }
